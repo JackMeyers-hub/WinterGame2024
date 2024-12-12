@@ -1,0 +1,9 @@
+Begin Object Class=/Script/Engine.DataTable Name="DT_GunStats" ExportPath="/Script/Engine.DataTable'/Game/Blueprints/DataTables/DT_GunStats.DT_GunStats'"
+   Begin Object Class=/Script/Engine.AssetImportData Name="AssetImportData" ExportPath="/Script/Engine.AssetImportData'/Game/Blueprints/DataTables/DT_GunStats.DT_GunStats:AssetImportData'"
+   End Object
+   Begin Object Name="AssetImportData" ExportPath="/Script/Engine.AssetImportData'/Game/Blueprints/DataTables/DT_GunStats.DT_GunStats:AssetImportData'"
+   End Object
+   RowStruct="/Script/Engine.UserDefinedStruct'/Game/Blueprints/DataTables/S_GunStats.S_GunStats'"
+   AssetImportData="/Script/Engine.AssetImportData'AssetImportData'"
+   RowStructPathName="/Game/Blueprints/DataTables/S_GunStats.S_GunStats"
+End Object

@@ -1,0 +1,13 @@
+Begin Object Class=/Script/Engine.UserDefinedStruct Name="S_EnemyStats" ExportPath="/Script/Engine.UserDefinedStruct'/Game/Blueprints/DataTables/S_EnemyStats.S_EnemyStats'"
+   Begin Object Class=/Script/UnrealEd.UserDefinedStructEditorData Name="UserDefinedStructEditorData_0" ExportPath="/Script/UnrealEd.UserDefinedStructEditorData'/Game/Blueprints/DataTables/S_EnemyStats.S_EnemyStats:UserDefinedStructEditorData_0'"
+   End Object
+   Begin Object Name="UserDefinedStructEditorData_0" ExportPath="/Script/UnrealEd.UserDefinedStructEditorData'/Game/Blueprints/DataTables/S_EnemyStats.S_EnemyStats:UserDefinedStructEditorData_0'"
+      UniqueNameId=12
+      VariablesDescriptions(0)=(VarName="Health_2_DF04CD58435CD4FB78B9189B62F1304B",VarGuid=DF04CD58435CD4FB78B9189B62F1304B,FriendlyName="Health",DefaultValue="0.000000",Category="real",SubCategory="double",CurrentDefaultValue="0.000000")
+      VariablesDescriptions(1)=(VarName="Damage_4_10709B774C3783F5807F74946F6D0086",VarGuid=10709B774C3783F5807F74946F6D0086,FriendlyName="Damage",DefaultValue="0.000000",Category="real",SubCategory="double",CurrentDefaultValue="0.000000")
+      VariablesDescriptions(2)=(VarName="Defense_6_D51C73AA4D38106D8A372BA416A907E5",VarGuid=D51C73AA4D38106D8A372BA416A907E5,FriendlyName="Defense",DefaultValue="0.000000",Category="real",SubCategory="double",CurrentDefaultValue="0.000000")
+      VariablesDescriptions(3)=(VarName="Speed_8_F6C4D3984BA2517536EEBD888FC88EDC",VarGuid=F6C4D3984BA2517536EEBD888FC88EDC,FriendlyName="Speed",DefaultValue="0.000000",Category="real",SubCategory="double",CurrentDefaultValue="0.000000")
+   End Object
+   EditorData="/Script/UnrealEd.UserDefinedStructEditorData'UserDefinedStructEditorData_0'"
+   Guid=D2F04648483559D670E4499D4F25049B
+End Object
